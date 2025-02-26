@@ -1,7 +1,6 @@
 from django.core.management.base import BaseCommand
 from ...helpers import query_db_using_llm_helper as helper
 
-
 class Command(BaseCommand):
     help = 'Perform natural language query over database using LLM'
 
