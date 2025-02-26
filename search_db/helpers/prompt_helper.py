@@ -1,13 +1,10 @@
-prompt_template = """
-Use the following pieces of context to answer the question at the end. If the answer is not in the context, say "I don't know".
+def get_prompt_to_generate_sql_query(table_schema_list, natural_language_query):
+    prompt = f"""
+            Given the following natural language query, generate a valid Postgress SQL query using the provided database
+            schemas list
+            Database Schema List: {table_schema_list}
+            Natural Language Query: {natural_language_query}
+            SQL Query: (Return only the SQL query, without any formatting or backticks)
+            """
 
-{context}
-
-Question: {question}
-
-**Instructions:**
-1. Give a concise answer and accurate, precise explanation.
-2. Give all the characteristic feature necessary to answer the given question.
-3. Answer in a minimum of 100 words and a maximum 0f 200 words.
-
-"""
+    return prompt

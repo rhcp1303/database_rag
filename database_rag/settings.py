@@ -13,13 +13,9 @@ https://docs.djangoproject.com/en/5.1/ref/settings/
 from pathlib import Path
 
 BASE_DIR = Path(__file__).resolve().parent.parent
-
 SECRET_KEY = 'django-insecure-c=1#l8w@aafg82xl^*f9kmta7%&5v+k-!w#w^1r440r)fr3t6('
-
 DEBUG = True
-
 ALLOWED_HOSTS = []
-
 INSTALLED_APPS = [
     'django.contrib.admin',
     'django.contrib.auth',
@@ -30,7 +26,6 @@ INSTALLED_APPS = [
     'search_db',
     'pgvector.django'
 ]
-
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
     'django.contrib.sessions.middleware.SessionMiddleware',
@@ -40,9 +35,7 @@ MIDDLEWARE = [
     'django.contrib.messages.middleware.MessageMiddleware',
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
-
 ROOT_URLCONF = 'database_rag.urls'
-
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
@@ -58,9 +51,7 @@ TEMPLATES = [
         },
     },
 ]
-
 WSGI_APPLICATION = 'database_rag.wsgi.application'
-
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
@@ -71,7 +62,6 @@ DATABASES = {
         'PORT': '5432',
     }
 }
-
 AUTH_PASSWORD_VALIDATORS = [
     {
         'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',
@@ -86,15 +76,9 @@ AUTH_PASSWORD_VALIDATORS = [
         'NAME': 'django.contrib.auth.password_validation.NumericPasswordValidator',
     },
 ]
-
 LANGUAGE_CODE = 'en-us'
-
 TIME_ZONE = 'UTC'
-
 USE_I18N = True
-
 USE_TZ = True
-
 STATIC_URL = 'static/'
-
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
