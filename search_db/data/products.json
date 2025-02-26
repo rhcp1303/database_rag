@@ -1,0 +1,492 @@
+[
+  {
+    "model": "search_db.products",
+    "fields": {
+      "name": "Laptop",
+      "price": 1200.00
+    }
+  },
+  {
+    "model": "search_db.products",
+    "fields": {
+      "name": "Mouse",
+      "price": 25.00
+    }
+  },
+  {
+    "model": "search_db.products",
+    "fields": {
+      "name": "Keyboard",
+      "price": 50.00
+    }
+  },
+  {
+    "model": "search_db.products",
+    "fields": {
+      "name": "Monitor",
+      "price": 300.00
+    }
+  },
+  {
+    "model": "search_db.products",
+    "fields": {
+      "name": "Headphones",
+      "price": 80.00
+    }
+  },
+  {
+    "model": "search_db.products",
+    "fields": {
+      "name": "Printer",
+      "price": 200.00
+    }
+  },
+  {
+    "model": "search_db.products",
+    "fields": {
+      "name": "USB Drive",
+      "price": 15.00
+    }
+  },
+  {
+    "model": "search_db.products",
+    "fields": {
+      "name": "External Hard Drive",
+      "price": 150.00
+    }
+  },
+  {
+    "model": "search_db.products",
+    "fields": {
+      "name": "Webcam",
+      "price": 60.00
+    }
+  },
+  {
+    "model": "search_db.products",
+    "fields": {
+      "name": "Speakers",
+      "price": 90.00
+    }
+  },
+  {
+    "model": "search_db.products",
+    "fields": {
+      "name": "Tablet",
+      "price": 400.00
+    }
+  },
+  {
+    "model": "search_db.products",
+    "fields": {
+      "name": "Smartphone",
+      "price": 800.00
+    }
+  },
+  {
+    "model": "search_db.products",
+    "fields": {
+      "name": "Router",
+      "price": 100.00
+    }
+  },
+  {
+    "model": "search_db.products",
+    "fields": {
+      "name": "Modem",
+      "price": 70.00
+    }
+  },
+  {
+    "model": "search_db.products",
+    "fields": {
+      "name": "Projector",
+      "price": 500.00
+    }
+  },
+  {
+    "model": "search_db.products",
+    "fields": {
+      "name": "Camera",
+      "price": 600.00
+    }
+  },
+  {
+    "model": "search_db.products",
+    "fields": {
+      "name": "Microphone",
+      "price": 40.00
+    }
+  },
+  {
+    "model": "search_db.products",
+    "fields": {
+      "name": "Scanner",
+      "price": 180.00
+    }
+  },
+  {
+    "model": "search_db.products",
+    "fields": {
+      "name": "Graphics Card",
+      "price": 250.00
+    }
+  },
+  {
+    "model": "search_db.products",
+    "fields": {
+      "name": "RAM",
+      "price": 120.00
+    }
+  },
+  {
+    "model": "search_db.products",
+    "fields": {
+      "name": "SSD",
+      "price": 130.00
+    }
+  },
+  {
+    "model": "search_db.products",
+    "fields": {
+      "name": "CPU",
+      "price": 350.00
+    }
+  },
+  {
+    "model": "search_db.products",
+    "fields": {
+      "name": "Motherboard",
+      "price": 200.00
+    }
+  },
+  {
+    "model": "search_db.products",
+    "fields": {
+      "name": "Power Supply",
+      "price": 80.00
+    }
+  },
+  {
+    "model": "search_db.products",
+    "fields": {
+      "name": "Cooling Fan",
+      "price": 30.00
+    }
+  },
+  {
+    "model": "search_db.products",
+    "fields": {
+      "name": "Laptop Bag",
+      "price": 60.00
+    }
+  },
+  {
+    "model": "search_db.products",
+    "fields": {
+      "name": "Monitor Stand",
+      "price": 45.00
+    }
+  },
+  {
+    "model": "search_db.products",
+    "fields": {
+      "name": "Docking Station",
+      "price": 150.00
+    }
+  },
+  {
+    "model": "search_db.products",
+    "fields": {
+      "name": "Wireless Charger",
+      "price": 35.00
+    }
+  },
+  {
+    "model": "search_db.products",
+    "fields": {
+      "name": "Bluetooth Adapter",
+      "price": 20.00
+    }
+  },
+  {
+    "model": "search_db.products",
+    "fields": {
+      "name": "HDMI Cable",
+      "price": 18.00
+    }
+  },
+  {
+    "model": "search_db.products",
+    "fields": {
+      "name": "Ethernet Cable",
+      "price": 12.00
+    }
+  },
+  {
+    "model": "search_db.products",
+    "fields": {
+      "name": "Power Strip",
+      "price": 28.00
+    }
+  },
+  {
+    "model": "search_db.products",
+    "fields": {
+      "name": "Surge Protector",
+      "price": 32.00
+    }
+  },
+  {
+    "model": "search_db.products",
+    "fields": {
+      "name": "Cleaning Kit",
+      "price": 22.00
+    }
+  },
+  {
+    "model": "search_db.products",
+    "fields": {
+      "name": "Stylus Pen",
+      "price": 55.00
+    }
+  },
+  {
+    "model": "search_db.products",
+    "fields": {
+      "name": "VR Headset",
+      "price": 300.00
+    }
+  },
+  {
+    "model": "search_db.products",
+    "fields": {
+      "name": "Gaming Controller",
+      "price": 70.00
+    }
+  },
+  {
+    "model": "search_db.products",
+    "fields": {
+      "name": "Portable Projector",
+      "price": 280.00
+    }
+  },
+  {
+    "model": "search_db.products",
+    "fields": {
+      "name": "Drawing Tablet",
+      "price": 220.00
+    }
+  },
+  {
+    "model": "search_db.products",
+    "fields": {
+      "name": "Smartwatch",
+      "price": 200.00
+    }
+  },
+  {
+    "model": "search_db.products",
+    "fields": {
+      "name": "Fitness Tracker",
+      "price": 120.00
+    }
+  },
+  {
+    "model": "search_db.products",
+    "fields": {
+      "name": "Wireless Earbuds",
+      "price": 150.00
+    }
+  },
+  {
+    "model": "search_db.products",
+    "fields": {
+      "name": "Bluetooth Speaker",
+      "price": 80.00
+    }
+  },
+  {
+    "model": "search_db.products",
+    "fields": {
+      "name": "Smart Home Hub",
+      "price": 100.00
+    }
+  },
+  {
+    "model": "search_db.products",
+    "fields": {
+      "name": "Smart Bulb",
+      "price": 25.00
+    }
+  },
+  {
+    "model": "search_db.products",
+    "fields": {
+      "name": "Smart Plug",
+      "price": 30.00
+    }
+  },
+  {
+    "model": "search_db.products",
+    "fields": {
+      "name": "Security Camera",
+      "price": 150.00
+    }
+  },
+  {
+    "model": "search_db.products",
+    "fields": {
+      "name": "Video Doorbell",
+      "price": 200.00
+    }
+  },
+  {
+    "model": "search_db.products",
+    "fields": {
+      "name": "Robot Vacuum",
+      "price": 400.00
+    }
+  },
+  {
+    "model": "search_db.products",
+    "fields": {
+      "name": "Air Purifier",
+      "price": 250.00
+    }
+  },
+  {
+    "model": "search_db.products",
+    "fields": {
+      "name": "Humidifier",
+      "price": 80.00
+    }
+  },
+  {
+    "model": "search_db.products",
+    "fields": {
+      "name": "Electric Kettle",
+      "price": 40.00
+    }
+  },
+  {
+    "model": "search_db.products",
+    "fields": {
+      "name": "Coffee Maker",
+      "price": 120.00
+    }
+  },
+  {
+    "model": "search_db.products",
+    "fields": {
+      "name": "Blender",
+      "price": 80.00
+    }
+  },
+  {
+    "model": "search_db.products",
+    "fields": {
+      "name": "Toaster",
+      "price": 30.00
+    }
+  },
+  {
+    "model": "search_db.products",
+    "fields": {
+      "name": "Microwave Oven",
+      "price": 150.00
+    }
+  },
+  {
+    "model": "search_db.products",
+    "fields": {
+      "name": "Refrigerator",
+      "price": 800.00
+    }
+  },
+  {
+    "model": "search_db.products",
+    "fields": {
+      "name": "Washing Machine",
+      "price": 600.00
+    }
+  },
+  {
+    "model": "search_db.products",
+    "fields": {
+      "name": "Television",
+      "price": 500.00
+    }
+  },
+  {
+    "model": "search_db.products",
+    "fields": {
+      "name": "Soundbar",
+      "price": 200.00
+    }
+  },
+  {
+    "model": "search_db.products",
+    "fields": {
+      "name": "Gaming Console",
+      "price": 400.00
+    }
+  },
+  {
+    "model": "search_db.products",
+    "fields": {
+      "name": "Board Game",
+      "price": 50.00
+    }
+  },
+  {
+    "model": "search_db.products",
+    "fields": {
+      "name": "Book",
+      "price": 20.00
+    }
+  },
+  {
+    "model": "search_db.products",
+    "fields": {
+      "name": "E-reader",
+      "price": 150.00
+    }
+  },
+  {
+    "model": "search_db.products",
+    "fields": {
+      "name": "Headphone Stand",
+      "price": 30.00
+    }
+  },
+  {
+    "model": "search_db.products",
+    "fields": {
+      "name": "Cable Organizer",
+      "price": 20.00
+    }
+  },
+  {
+    "model": "search_db.products",
+    "fields": {
+      "name": "Desk Lamp",
+      "price": 40.00
+    }
+  },
+  {
+    "model": "search_db.products",
+    "fields": {
+      "name": "Office Chair",
+      "price": 150.00
+    }
+  },
+  {
+    "model": "search_db.products",
+    "fields": {
+      "name": "Desk Mat",
+      "price": 30.00
+    }
+  }
+]

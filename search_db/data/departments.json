@@ -1,0 +1,122 @@
+[
+  {
+    "model": "search_db.departments",
+    "fields": {
+      "name": "Human Resources"
+    }
+  },
+  {
+    "model": "search_db.departments",
+    "fields": {
+      "name": "Engineering"
+    }
+  },
+  {
+    "model": "search_db.departments",
+    "fields": {
+      "name": "Sales"
+    }
+  },
+  {
+    "model": "search_db.departments",
+    "fields": {
+      "name": "Marketing"
+    }
+  },
+  {
+    "model": "search_db.departments",
+    "fields": {
+      "name": "Finance"
+    }
+  },
+  {
+    "model": "search_db.departments",
+    "fields": {
+      "name": "Customer Support"
+    }
+  },
+  {
+    "model": "search_db.departments",
+    "fields": {
+      "name": "Research and Development"
+    }
+  },
+  {
+    "model": "search_db.departments",
+    "fields": {
+      "name": "Operations"
+    }
+  },
+  {
+    "model": "search_db.departments",
+    "fields": {
+      "name": "Legal"
+    }
+  },
+  {
+    "model": "search_db.departments",
+    "fields": {
+      "name": "Information Technology"
+    }
+  },
+  {
+    "model": "search_db.departments",
+    "fields": {
+      "name": "Product Management"
+    }
+  },
+  {
+    "model": "search_db.departments",
+    "fields": {
+      "name": "Quality Assurance"
+    }
+  },
+  {
+    "model": "search_db.departments",
+    "fields": {
+      "name": "Data Science"
+    }
+  },
+  {
+    "model": "search_db.departments",
+    "fields": {
+      "name": "Design"
+    }
+  },
+  {
+    "model": "search_db.departments",
+    "fields": {
+      "name": "Public Relations"
+    }
+  },
+  {
+    "model": "search_db.departments",
+    "fields": {
+      "name": "Training"
+    }
+  },
+    {
+    "model": "search_db.departments",
+    "fields": {
+      "name": "Security"
+    }
+  },
+    {
+    "model": "search_db.departments",
+    "fields": {
+      "name": "Logistics"
+    }
+  },
+    {
+    "model": "search_db.departments",
+    "fields": {
+      "name": "Administration"
+    }
+  },
+    {
+    "model": "search_db.departments",
+    "fields": {
+      "name": "Innovation"
+    }
+  }
+]
