@@ -43,7 +43,7 @@ def query_db_using_llm(natural_language_query):
 
 st.title("Natural Language Search App")
 natural_language_query = st.text_area("Enter your natural language query:",
-                                      "show me name of products whose orders are handled by Aarav Sharma")
+                                      "")
 
 if st.button("Search"):
     if natural_language_query:
